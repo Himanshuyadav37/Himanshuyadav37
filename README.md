@@ -1,5 +1,5 @@
 <!-- ============================================================
-     HIMANSHU RAO — GitHub Profile README
+     HIMANSHU YADAV — GitHub Profile README
      Premium · Modern · Recruiter-Ready
      ============================================================ -->
 
