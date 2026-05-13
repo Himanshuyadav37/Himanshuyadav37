@@ -1,39 +1,35 @@
-<!-- ============================================================
-     HIMANSHU YADAV — GitHub Profile README
-     Premium · Modern · Recruiter-Ready
-     ============================================================ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║         HIMANSHU YADAV — GitHub Profile README             ║
+     ║         Bold · Vibrant · Multi-Color · Premium             ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ─── HERO BANNER ─────────────────────────────────────────── -->
 
-<div align="center">
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ HERO ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0f0f1a,60:111827,100:0a0a0f&height=260&section=header&text=Himanshu%20Rao&fontSize=62&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20AI%20%2F%20GenAI%20Developer%20%E2%80%A2%20Builder&descColor=94a3b8&descSize=15&descAlignY=65&stroke=334155&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:3b82f6,50:06b6d4,75:10b981,100:f59e0b&height=280&section=header&text=Himanshu%20Yadav&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20GenAI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descColor=e0f2fe&descSize=16&descAlignY=62" />
 
-</div>
-
-<!-- ─── TYPING ROLES ────────────────────────────────────────── -->
+<!-- ━━━━━━━━━━━━━━━━━━━━ TYPING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=2200&pause=900&color=64748B&center=true&vCenter=true&multiline=false&width=580&lines=Building+intelligent+multi-agent+AI+systems;Designing+RAG+pipelines+%26+LLM+applications;Full-stack+engineer+%7C+MERN+%2B+GenAI;LangGraph+%C2%B7+LangChain+%C2%B7+ChromaDB+%C2%B7+Groq;Open+to+AI+%2F+SWE+roles+%E2%86%92+Let%27s+build+something" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=7C3AED&center=true&vCenter=true&width=620&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+LangGraph+%7C+LangChain+%7C+RAG+%7C+ChromaDB;💻+Full-Stack+MERN+Developer;🚀+GenAI+Engineer+%7C+Open+to+Opportunities;⚡+35%25+Throughput+Gains+%7C+10K%2B+Code+Chunks+Indexed" />
 
 </div>
 
 <br/>
 
-<!-- ─── SOCIAL BADGES ───────────────────────────────────────── -->
+<!-- ━━━━━━━━━━━━━━━━━━━━ BADGES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat-square&logo=linkedin&logoColor=64748b&labelColor=0f172a)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=flat-square&logo=github&logoColor=64748b&labelColor=0f172a)](https://github.com/YOUR_GITHUB)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0f?style=flat-square&logo=gmail&logoColor=64748b&labelColor=0f172a)](mailto:YOUR_EMAIL)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=flat-square&logo=vercel&logoColor=64748b&labelColor=0f172a)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ydvvhimanshu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav37)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydvhimanshu461@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=334155&label=profile+views)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=334155&labelColor=0f172a&label=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Himanshuyadav37&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
@@ -41,260 +37,233 @@
 
 ---
 
-<!-- ─── ABOUT ────────────────────────────────────────────────── -->
+<!-- ━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <br/>
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<img align="right" width="35%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-### &nbsp;`01` &nbsp;About
+🎓 **B.Tech CSE** @ JECRC Jaipur · CGPA **7.9/10** · Batch of 2027
 
-<br/>
+💻 Passionate about building full-stack web applications using **MongoDB, Express, React, and Node.js** — from clean UIs to scalable backends.
 
-I'm **Himanshu Rao** — a software engineer and AI developer focused on building production-grade intelligent systems.
+🤖 Building **multi-agent AI systems** with LangGraph, LangChain, and RAG pipelines — systems that don't just respond, they *reason*.
 
-My work sits at the intersection of **agentic AI**, **RAG pipelines**, and **full-stack engineering**. I design systems that don't just work — they *think*.
+🔧 Strong problem-solving skills with **Java and Data Structures & Algorithms** — I write code that's efficient, not just functional.
 
-Currently building multi-agent orchestration platforms and LLM-powered applications that solve real engineering problems.
+🚀 Open to **AI/ML & SWE internship** opportunities — let's build something that matters.
 
-<br/>
+📬 Reach me at **ydvhimanshu461@gmail.com** · **+91-7015457306**
 
-```yaml
-focus:
-  - Multi-Agent AI Systems
-  - RAG & LLM Applications
-  - Full Stack (MERN)
-  - GenAI Workflow Orchestration
-
-currently:
-  - Building: AI Project Manager Assistant
-  - Learning: Advanced agentic patterns
-  - Open to: AI/SWE internships & roles
-```
-
-</td>
-<td width="4%"></td>
-<td width="44%" valign="top">
-
-<br/><br/><br/>
-
-```
-┌─────────────────────────────┐
-│                             │
-│   > profile.json            │
-│                             │
-│   name    : Himanshu Rao    │
-│   role    : AI / SWE        │
-│   focus   : GenAI + MERN    │
-│   base    : India           │
-│   status  : Open to work ✦  │
-│                             │
-│   agents  : [ LangGraph,    │
-│               LangChain,    │
-│               ChromaDB ]    │
-│                             │
-│   stack   : Python · JS     │
-│             React · Node    │
-│                             │
-└─────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
 ---
 
-<!-- ─── TECH STACK ──────────────────────────────────────────── -->
+<!-- ━━━━━━━━━━━━━━━━━━ PROJECTS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <br/>
 
-### &nbsp;`02` &nbsp;Tech Stack
-
-<br/>
-
-<details open>
-<summary>&nbsp;<b>🤖 AI / ML / GenAI</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=94a3b8)
-![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logoColor=94a3b8)
-![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat-square&logoColor=94a3b8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0f172a?style=flat-square&logo=huggingface&logoColor=94a3b8)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0f172a?style=flat-square&logoColor=94a3b8)
-![Groq](https://img.shields.io/badge/Groq-0f172a?style=flat-square&logoColor=94a3b8)
-![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=94a3b8)
-![RAG](https://img.shields.io/badge/RAG%20Systems-0f172a?style=flat-square&logoColor=94a3b8)
-![NLP](https://img.shields.io/badge/NLP-0f172a?style=flat-square&logoColor=94a3b8)
-![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=94a3b8)
-![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=94a3b8)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=94a3b8)
-
-</details>
-
-<details open>
-<summary>&nbsp;<b>🌐 Frontend</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=94a3b8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=94a3b8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=94a3b8)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=94a3b8)
-![Redux](https://img.shields.io/badge/Redux-0f172a?style=flat-square&logo=redux&logoColor=94a3b8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0f172a?style=flat-square&logo=bootstrap&logoColor=94a3b8)
-![HTML](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=94a3b8)
-![CSS](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=94a3b8)
-
-</details>
-
-<details open>
-<summary>&nbsp;<b>⚙️ Backend & Databases</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=94a3b8)
-![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=94a3b8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=94a3b8)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=94a3b8)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square&logoColor=94a3b8)
-
-</details>
-
-<details open>
-<summary>&nbsp;<b>🛠 Languages & Tools</b></summary>
-<br/>
-
-![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=94a3b8)
-![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=94a3b8)
-![C](https://img.shields.io/badge/C-0f172a?style=flat-square&logo=c&logoColor=94a3b8)
-![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=94a3b8)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=94a3b8)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=94a3b8)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=94a3b8)
-![Postman](https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=94a3b8)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=94a3b8)
-
-</details>
-
-<br/>
-
----
-
-<!-- ─── PROJECTS ────────────────────────────────────────────── -->
-
-<br/>
-
-### &nbsp;`03` &nbsp;Featured Projects
-
-<br/>
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**`◈` AI Project Manager Assistant**
+<h3 align="center">🧠 AI Project Manager Assistant</h3>
 
-*Multi-Agent Workflow Intelligence System*
+<p align="center"><i>Multi-Agent Workflow Intelligence System</i></p>
+<p align="center"><code>May 2026 – Present</code></p>
 
-A LangGraph-powered supervisor-worker orchestration platform with parallel multi-agent execution and DAG-based scheduling.
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-7c3aed?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-3b82f6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-06b6d4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-10b981?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-f59e0b?style=flat-square&logoColor=white" />
+</p>
 
-- ⚡ **35% throughput gain** via parallel agent execution
-- 🔀 DAG scheduling with NetworkX & topological sort
-- 🧠 Groq-powered LLM inference at production speed
+- ⚡ **35% throughput gain** via parallel multi-agent execution
+- 🔀 **DAG-based scheduling** with NetworkX & topological sort
+- 🧠 **Groq LLM** inference at production speed
+- 👔 Supervisor-worker architecture with intelligent routing
 
-`LangGraph` · `LangChain` · `Groq` · `ChromaDB` · `Streamlit`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=94a3b8)](https://github.com/YOUR_GITHUB)
+<p align="center">
+<a href="https://github.com/Himanshuyadav37"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-**`◈` ArchGuard AI**
+<h3 align="center">🛡️ ArchGuard AI</h3>
 
-*Multi-Agent Software Architecture Reviewer*
+<p align="center"><i>Multi-Agent Software Architecture Reviewer</i></p>
+<p align="center"><code>Dec 2025 – Feb 2026</code></p>
 
-Production-grade multi-agent platform with 5+ specialized agents for code security, architecture review, and quality analysis.
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-7c3aed?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-3b82f6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-06b6d4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-10b981?style=flat-square&logoColor=white" />
+</p>
 
-- 📦 **10,000+ code chunks** indexed via HuggingFace + ChromaDB
-- 🛡️ Security, architecture & quality agents in parallel
-- 🔍 Deep contextual RAG retrieval pipeline
+- 🤖 **5+ specialized agents** for security, architecture & quality
+- 📦 **10,000+ code chunks** indexed with HuggingFace embeddings
+- 🔍 Deep contextual **RAG retrieval** pipeline
+- 🌐 Live deployed & production ready
 
-`LangGraph` · `LangChain` · `RAG` · `ChromaDB` · `HuggingFace`
-
-[![Live](https://img.shields.io/badge/Live-0f172a?style=flat-square&logo=vercel&logoColor=94a3b8)](https://github.com/YOUR_GITHUB)&nbsp;[![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=flat-square&logo=github&logoColor=94a3b8)](https://github.com/YOUR_GITHUB)
+<p align="center">
+<a href="https://github.com/Himanshuyadav37"><img src="https://img.shields.io/badge/Live%20Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Himanshuyadav37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-> 💡 *More projects pinned below — check the repositories section.*
-
-<br/>
-
----
-
-<!-- ─── GITHUB STATS ────────────────────────────────────────── -->
-
-<br/>
-
-### &nbsp;`04` &nbsp;GitHub Stats
-
-<br/>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=e2e8f0&text_color=64748b&icon_color=475569&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=e2e8f0&text_color=64748b&langs_count=7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0a0a0f&ring=334155&fire=475569&currStreakLabel=e2e8f0&sideLabels=64748b&dates=334155&currStreakNum=e2e8f0&sideNums=94a3b8&stroke=0f172a)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0a0a0f&color=475569&line=334155&point=64748b&area=true&area_color=0f172a&hide_border=true&radius=4)](https://github.com/YOUR_GITHUB_USERNAME)
-
 </div>
 
 <br/>
 
 ---
 
-<!-- ─── CONNECT ─────────────────────────────────────────────── -->
+<!-- ━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<br/>
-
-### &nbsp;`05` &nbsp;Let's Connect
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <br/>
 
 <div align="center">
 
-I'm always open to interesting AI projects, collaborations, or just a good technical conversation.
+### 🤖 AI · ML · GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7c3aed?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-06b6d4?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=94a3b8)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=94a3b8)](https://github.com/YOUR_GITHUB)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=94a3b8)](mailto:YOUR_EMAIL)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+### 💬 Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━ CERTIFICATIONS ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">🏆 Certifications</h2>
+
+<br/>
+
+<div align="center">
+
+| 🎖️ | Certificate | Issuer | Year |
+|---|---|---|---|
+| ☁️ | **Google Cloud Engineering** | Google Cloud | 2025 |
+
+*Kubernetes · DevOps · VPC · Compute Engine · Cloud Storage · CI/CD*
+
+</div>
+
+<br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<br/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himanshuyadav37&show_icons=true&hide_border=false&bg_color=0d1117&title_color=7c3aed&text_color=94a3b8&icon_color=06b6d4&count_private=true&include_all_commits=true&border_color=7c3aed&border_radius=10" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadav37&layout=compact&hide_border=false&bg_color=0d1117&title_color=7c3aed&text_color=94a3b8&border_color=3b82f6&border_radius=10&langs_count=7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadav37&hide_border=false&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff&border=3b82f6&border_radius=10)](https://github.com/Himanshuyadav37)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuyadav37&bg_color=0d1117&color=7c3aed&line=3b82f6&point=06b6d4&area=true&area_color=7c3aed&hide_border=false&border_color=7c3aed&radius=8)](https://github.com/Himanshuyadav37)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<br/>
+
+<div align="center">
+
+*Always open to AI projects, collaborations, or a good technical conversation.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ydvvhimanshu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav37)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydvhimanshu461@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917015457306)
 
 <br/><br/>
 
-<sub>*Response time: usually within 24 hours*</sub>
+<sub>💬 <i>Response time: usually within 24 hours</i></sub>
 
 </div>
 
@@ -302,16 +271,18 @@ I'm always open to interesting AI projects, collaborations, or just a good techn
 
 ---
 
-<!-- ─── FOOTER ──────────────────────────────────────────────── -->
-
-<br/>
+<!-- ━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<sub>designing systems that think &nbsp;·&nbsp; writing code that ships &nbsp;·&nbsp; building what matters</sub>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br/><br/>
+
+<sub>⚡ <i>building agents · shipping full-stack · solving real problems</i> ⚡</sub>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0f172a,100:0a0a0f&height=90&section=footer&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,25:10b981,50:06b6d4,75:3b82f6,100:7c3aed&height=120&section=footer&reversal=true" />
