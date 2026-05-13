@@ -25,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0221.svg?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/ydvvhimanshu)
 [![GitHub](https://img.shields.io/badge/GitHub-%230d0221.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Himanshuyadav37)
 [![Email](https://img.shields.io/badge/Email-%230d0221.svg?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:ydvhimanshu461@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--7015457306-%230d0221.svg?style=for-the-badge&logo=whatsapp&logoColor=6ef0d4)](tel:+917015457306)
+<!-- [![Phone](https://img.shields.io/badge/+91--7015457306-%230d0221.svg?style=for-the-badge&logo=whatsapp&logoColor=6ef0d4)](tel:+917015457306) -->
 
 </div>
 
