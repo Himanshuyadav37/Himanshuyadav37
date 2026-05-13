@@ -55,7 +55,7 @@
 
 🚀 Open to **AI/ML & SWE internship** opportunities — let's build something that matters.
 
-📬 Reach me at **ydvhimanshu461@gmail.com** · **+91-7015457306**
+📬 Reach me at **ydvhimanshu461@gmail.com** · 
 
 <br clear="right"/>
 
