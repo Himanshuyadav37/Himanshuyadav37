@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=7C3AED&center=true&vCenter=true&width=620&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+LangGraph+%7C+LangChain+%7C+RAG+%7C+ChromaDB;💻+Full-Stack+MERN+Developer;🚀+GenAI+Engineer+%7C+Open+to+Opportunities;⚡+35%25+Throughput+Gains+%7C+10K%2B+Code+Chunks+Indexed" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=7C3AED&center=true&vCenter=true&width=620&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+LangGraph+%7C+LangChain+%7C+RAG+%7C+ChromaDB;💻+Full-Stack+MERN+Developer;🚀+GenAI+Engineer+%7C+Open+to+Opportunities;⚡+5-Agent+Autonomous+Code+Generation+%7C+10K%2B+Code+Chunks+Indexed" />
 
 </div>
 
@@ -45,17 +45,17 @@
 
 <img align="right" width="35%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-🎓 **B.Tech CSE** @ JECRC Jaipur · CGPA **7.9/10** · Batch of 2027
+🎓 **B.Tech CSE (AI/ML)** @ JECRC Jaipur · CGPA **7.9/10** · Batch of 2027
 
-💻 Passionate about building full-stack web applications using **MongoDB, Express, React, and Node.js** — from clean UIs to scalable backends.
+🤖 Focused on **Agentic AI** — building multi-agent systems with LangGraph, LangChain, and RAG pipelines that don't just respond, they *reason and act*.
 
-🤖 Building **multi-agent AI systems** with LangGraph, LangChain, and RAG pipelines — systems that don't just respond, they *reason*.
+💻 Full-stack developer with the **MERN stack** — shipping production-grade apps with real users and measurable outcomes.
 
-🔧 Strong problem-solving skills with **Java and Data Structures & Algorithms** — I write code that's efficient, not just functional.
+🔧 Strong foundations in **Data Structures & Algorithms** with Java — writing code that is efficient, not just functional.
 
-🚀 Open to **AI/ML & SWE internship** opportunities — let's build something that matters.
+🚀 Actively seeking **GenAI / Agentic AI Engineering** internship opportunities.
 
-📬 Reach me at **ydvhimanshu461@gmail.com** · 
+📬 Reach me at **ydvhimanshu461@gmail.com**
 
 <br clear="right"/>
 
@@ -75,23 +75,23 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 AI Project Manager Assistant</h3>
+<h3 align="center">⚙️ DevPilot AI</h3>
 
-<p align="center"><i>Multi-Agent Workflow Intelligence System</i></p>
+<p align="center"><i>Autonomous Code Generation System</i></p>
 <p align="center"><code>May 2026 – Present</code></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/LangGraph-7c3aed?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-3b82f6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-3b82f6?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-06b6d4?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-10b981?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-f59e0b?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/React-f59e0b?style=flat-square&logoColor=white" />
 </p>
 
-- ⚡ **35% throughput gain** via parallel multi-agent execution
-- 🔀 **DAG-based scheduling** with NetworkX & topological sort
-- 🧠 **Groq LLM** inference at production speed
-- 👔 Supervisor-worker architecture with intelligent routing
+- 🤖 **5-agent pipeline** — Planner → Coder → Tester → Debugger → Deployer
+- 🔄 **Multi-key Groq API rotation** for uninterrupted LLM inference
+- 📚 **RAG** with ChromaDB + HuggingFace embeddings for code context
+- 🔐 JWT auth · MongoDB (Motor) · FastAPI backend
 
 <p align="center">
 <a href="https://github.com/Himanshuyadav37"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -112,16 +112,47 @@
 <img src="https://img.shields.io/badge/HuggingFace-10b981?style=flat-square&logoColor=white" />
 </p>
 
-- 🤖 **5+ specialized agents** for security, architecture & quality
+- 🤖 **Hierarchical supervisor-worker** architecture with 4 specialist agents
 - 📦 **10,000+ code chunks** indexed with HuggingFace embeddings
-- 🔍 Deep contextual **RAG retrieval** pipeline
-- 🌐 Live deployed & production ready
+- 🔍 **CRAG-based RAG** for deep contextual code retrieval
+- 🔒 Covers security, design patterns, code quality & architecture review
 
 <p align="center">
-<a href="https://github.com/Himanshuyadav37"><img src="https://img.shields.io/badge/Live%20Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Himanshuyadav37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Acadly</h3>
+
+<p align="center"><i>Full-Stack EdTech Platform</i></p>
+<p align="center"><code>2024</code></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+- 👥 **200+ active users** on production deployment
+- ⚡ **40% latency reduction** via backend optimization
+- 📊 **300+ learning sessions** tracked end-to-end
+- 🔐 Auth, course management & real-time analytics
+
+<p align="center">
+<a href="https://github.com/Himanshuyadav37"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+<!-- Placeholder for future project -->
+<br/><br/><br/>
+<p align="center"><i>🔨 Next project incoming...</i></p>
+<br/><br/><br/>
 </td>
 </tr>
 </table>
@@ -140,16 +171,15 @@
 
 <div align="center">
 
-### 🤖 AI · ML · GenAI
+### 🤖 AI · GenAI · Agentic AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-7c3aed?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-f59e0b?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-06b6d4?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <br/>
@@ -159,7 +189,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -169,6 +198,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
@@ -176,10 +206,8 @@
 ### 💬 Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -252,14 +280,13 @@
 
 <div align="center">
 
-*Always open to AI projects, collaborations, or a good technical conversation.*
+*Open to GenAI / Agentic AI engineering roles, research collaborations, and technical conversations.*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ydvvhimanshu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav37)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydvhimanshu461@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917015457306)
 
 <br/><br/>
 
