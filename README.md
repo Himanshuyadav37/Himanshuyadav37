@@ -1,3 +1,10 @@
+Updated details:
+- **Degree**: B.Tech in Computer Science & Engineering (CSE) *(AI/ML removed)*
+- **CGPA**: **8.1/10**
+
+Yeh raha aapka **Final `README.md`**:
+
+```markdown
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║         HIMANSHU YADAV — GitHub Profile README             ║
      ║     Software Engineer · Full-Stack (MERN) · GenAI Builder  ║
@@ -5,25 +12,21 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━ HERO BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1e1b4b,50:4338ca,75:2563eb,100:06b6d4&height=280&section=header&text=Himanshu%20Yadav&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20GenAI%20%26%20Systems%20Builder&descColor=93c5fd&descSize=15&descAlignY=62" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:2563eb,100:38bdf8&height=220&section=header&text=Himanshu%20Yadav&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20GenAI%20Builder&descColor=bae6fd&descSize=15&descAlignY=62" />
 
 <!-- ━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=💻+Software+Engineer+%7C+Core+DSA+%26+Clean+Architecture;🌐+Full-Stack+MERN+Developer+%7C+Scalable+Web+Apps;🤖+GenAI+%26+Agentic+Systems+%7C+LangGraph+%2B+RAG;⚡+Building+High-Performance+Distributed+Systems;🚀+Open+to+SDE%2C+Full-Stack+%26+AI+Engineering+Roles" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=💻+Software+Engineer+%7C+Core+DSA+%26+System+Design;🌐+Full-Stack+MERN+Developer+%7C+Scalable+Web+Apps;🤖+GenAI+%26+Agentic+Systems+%7C+LangGraph+%2B+RAG;⚡+Java+%7C+C%2B%2B+%7C+React+%7C+Node.js+%7C+FastAPI;🚀+Open+to+SDE%2C+Full-Stack+%26+AI+Roles" />
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━ CONNECT & STATS BADGES ━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
+<!-- ━━━━━━━━━━━━━━━━━━━━ SOCIAL BADGES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ydvvhimanshu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav37)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Himanshuyadav37)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydvhimanshu461@gmail.com)
 
 <br/><br/>
@@ -31,6 +34,21 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Himanshuyadav37&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)
 
 </div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━ TERMINAL STATUS CARD ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+```bash
+$ himanshu --status
+┌────────────────────────────────────────────────────────────────────────┐
+│  👨‍💻 Himanshu Yadav | B.Tech CSE @ JECRC '27 · CGPA: 8.1/10            │
+│  💻 SDE & Core: Java, C++, DSA (350+ Solved), OOPs, System Design      │
+│  🌐 Web Stack: React.js, Node.js, Express, MongoDB, PostgreSQL         │
+│  🤖 GenAI Stack: LangGraph, LangChain, Multi-Agent Systems, CRAG       │
+│  🚀 Mission: Building resilient backend systems & autonomous AI agents │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
@@ -44,15 +62,15 @@
 
 <img align="right" width="34%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-🎓 **B.Tech in Computer Science (AI/ML)** @ JECRC Jaipur · CGPA **7.9/10** · Batch of 2027
+🎓 **B.Tech in Computer Science & Engineering (CSE)** @ JECRC Jaipur · CGPA **8.1/10** · Batch of 2027
 
-💻 **Software Engineering & Core CS**: Strong foundations in **Data Structures & Algorithms** (Java / C++), Object-Oriented Programming, System Design, and writing clean, scalable, production-ready code.
+💻 **Software Engineering & Core CS**: Strong foundations in **Data Structures & Algorithms** (Java / C++), Object-Oriented Programming, System Design, and writing clean, efficient, production-ready code.
 
-🌐 **Full-Stack Development (MERN)**: Building end-to-end web applications with React, Node.js, Express, MongoDB/PostgreSQL, featuring robust authentication, microservices architecture, and real-time capabilities.
+🌐 **Full-Stack Development (MERN)**: Building end-to-end web applications with React, Node.js, Express, MongoDB/PostgreSQL, with focus on modular APIs, microservices architecture, and real-time performance.
 
 🤖 **GenAI & Agentic AI**: Architecting multi-agent autonomous workflows using **LangGraph, LangChain, and advanced RAG (CRAG/Self-RAG)** pipelines integrated with vector databases.
 
-🚀 **Current Focus**: Open for **Software Engineering (SDE), Full-Stack, and AI/GenAI Engineering** internships & full-time roles.
+🚀 **Current Focus**: Open for **Software Engineering (SDE), Full-Stack, and AI/GenAI Engineering** internships & collaborative projects.
 
 📬 **Get in touch**: [ydvhimanshu461@gmail.com](mailto:ydvhimanshu461@gmail.com)
 
@@ -147,9 +165,9 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ Distributed Task & Core Systems</h3>
-<p align="center"><i>High-Throughput Backend & Algorithmic Problem Solving</i></p>
-<p align="center"><code>Core CS · DSA · Backend Engineering</code></p>
+<h3 align="center">⚡ Core Systems & DSA Engine</h3>
+<p align="center"><i>Algorithmic Problem Solving & Backend Engineering</i></p>
+<p align="center"><code>Core CS · DSA · Backend Systems</code></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -303,8 +321,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ydvvhimanshu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav37)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydvhimanshu461@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Himanshuyadav37)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydvhimanshu461@gmail.com)
 
 <br/><br/>
 
@@ -331,3 +349,4 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:2563eb,50:4338ca,75:1e1b4b,100:0d1117&height=120&section=footer&reversal=true" />
+```
